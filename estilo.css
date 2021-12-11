@@ -1,0 +1,25 @@
+*{ color: red; }
+h1 {color: blue;}
+h1:hover{color: red;}
+
+
+#fin {
+	   font-style: italic;
+	   color: grey;
+}
+
+h4 b{ color:blue;
+       background-color: grey; }
+
+.Loremm {
+	      color: yellow;
+	      font-size: 15px;
+          
+	      background-color: black ;
+	      }
+
+.Loremm:hover { color: blue;
+
+}
+
+       
