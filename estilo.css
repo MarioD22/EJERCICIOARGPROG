@@ -1,4 +1,4 @@
-*{ color: red; }
+
 h1 {color: blue;}
 h1:hover{color: red;}
 
@@ -22,4 +22,16 @@ h4 b{ color:blue;
 
 }
 
-       
+
+li {display: inline;}
+
+
+
+.index11 {display: inline;
+ background-color: blueviolet;}
+
+.micuenta {display: inline;
+background-color: yellow;}
+
+.Quiensomos {display: inline; 
+background-color: yellow;  }
